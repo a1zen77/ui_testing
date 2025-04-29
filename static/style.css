@@ -7,3 +7,7 @@ h1{
   margin-top: 64px;
   text-align: center;
 }
+body {
+  background-image: url('image.jpg'); /* Replace with your image path or URL */
+  background-size: cover;
+}
